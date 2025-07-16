@@ -1,4 +1,4 @@
-# LLM4TAB - LLM-Finetuning for Structured Transactional Data
+# LLM4TAB - LLM-Finetuning for Structured Data
 
 This project explores the use of Large Language Models (LLMs) for classification and prediction tasks involving transactional data originally presented in structured table format (attribute-value pairs).
 
